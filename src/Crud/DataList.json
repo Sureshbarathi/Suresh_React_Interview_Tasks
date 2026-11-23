@@ -1,0 +1,7 @@
+[
+  { "name": "Anish", "id": 1, "age": 7, "petname": "anil" },
+  { "name": "Kirithish", "id": 2, "age": 5, "petname": "kerish" },
+  { "name": "Suresh", "id": 3, "age": 30, "petname": "kutty" },
+  { "name": "Blacky", "id": 4, "age": 28, "petname": "arukani" },
+  { "name": "Nila", "id": 5, "age": 1, "petname": "paapu" }
+]

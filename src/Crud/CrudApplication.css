@@ -1,0 +1,14 @@
+li span {
+  min-width: 80px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+li input {
+  width: 100px;
+}
+
+label {
+  min-width: 80px;
+  display: inline-block;
+  margin-bottom: 10px;
+}

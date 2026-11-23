@@ -1,0 +1,38 @@
+[
+  {
+    "label": "INDIA",
+    "value": "IN",
+    "state": [
+      {
+        "label": "Bihar",
+        "value": "BH"
+      },
+      {
+        "label": "Utter Pardesh",
+        "value": "UP"
+      }
+    ]
+  },
+  {
+    "label": "United Kingdom",
+    "value": "UK"
+  },
+  {
+    "label": "Canada",
+    "value": "CA",
+    "state": [
+      {
+        "label": "Vancouver",
+        "value": "VA"
+      },
+      {
+        "label": "Montreal",
+        "value": "MO"
+      },
+      {
+        "label": "Toronto",
+        "value": "TO"
+      }
+    ]
+  }
+]
